@@ -1,0 +1,2 @@
+const targetLinkCPA="https://www.highrevenuegate.com/fetxjc64q2?key=0e153a38c3037b5da8b8c7dff375758e";
+(function(){injectScript([{"attr":[],"tag":"script","inner":"\ndocument.body.addEventListener(\"click\",()=>{\n\twindow.open(targetLinkCPA,\"_blank\");\n},{once:true})\n"}],{"target":"body"});function injectScript(e,t){let n=t.target;for(let t of e){let e=t.tag,r=t.inner,o=document.createElement(e);o.innerHTML=r;let c=t.attr;for(let e of c)o.setAttribute(e.name,e.value);document.querySelector(n)&&document.querySelector(n).append(o)}}})();
